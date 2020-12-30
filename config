@@ -5,15 +5,12 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-[remote "origin"]
-	url = git@gitee.com:zhong_dong/gw_pub_min.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
-	remote = origin
+	remote = github
 	merge = refs/heads/master
-[gui]
-	wmstate = normal
-	geometry = 1172x693+38+38 254 315
 [remote "github"]
 	url = git@github.com:zdongjun/git_pub_min.git
 	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "gitee"]
+	url = git@gitee.com:zhong_dong/gw_pub_min.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

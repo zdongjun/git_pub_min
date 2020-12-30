@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='C:\Users\Administrator'
+let g:netrw_dirhist_1='C:/Users/Administrator'
+let g:netrw_dirhist_0='D:/homed/gw/gw_zsnote/add/ztemp'
+let g:netrw_dirhist_9='D:/homed/gw/gw_zsnote/add'
+let g:netrw_dirhist_8='D:/homed/gw/gw_zsnote'
+let g:netrw_dirhist_7='D:\homed\gw\gw_zsnote\src'
+let g:netrw_dirhist_6='D:/homed/gw/gw_zsnote/src'
+let g:netrw_dirhist_5='D:/homed/gw/gw_zsnote'
+let g:netrw_dirhist_4='D:/homed/gw'
+let g:netrw_dirhist_3='D:/homed/gw/gw_mdhtml'
